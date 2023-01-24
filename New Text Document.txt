@@ -1,0 +1,47 @@
+Java supports 8 primitive data types- Boolean, byte, char, short, int, long, float, double. 
+
+Java uses pseudo-machine language that runs on the Java virtual machine
+
+Java is a compiled programming language, compiled languages are generally faster than interpreted languages. 
+
+					Java development tools
+Java Development Kit (JDK) downloadable set of tools for compiling Java programs and a JVM to run them
+
+Java INtegrated development envirtonment (IDE) - Graphicial interface to develop and debug Java. 
+
+Java Web Container- A server environment for running web application in Java
+
+					Stack vs heap
+Stack memory, heap memory
+
+					Strings
+Contains 0 or more characters
+
+not a primitive type, it's a built in class
+
+String firstname = new String("Bob");
+
+String newname = firstname; // Makes new string the same as the string firstname
+
+strings must use double quotes "" they can not use '' that is only for characters
+
+					Ternary operator
+String answer = (x>=0) ? "non-negative" : "negative";
+^ translation if String answer >= 0 then "non-negative" else "negative";
+
+					Output
+two types of output statements
+System.out.Println("Hello Columbus state!")
+println makes a new line and just print doesn't
+
+					Input statements
+must import Java utilities library and create a scanner object to use the input methods
+package edu.cscc;
+import java.util.*; 
+public class Main {
+private static Scanner input = new Scanner(System.in);
+
+public static void main(String[] args) { ...
+
+					math methods
+need to use import java.lang.Math;
