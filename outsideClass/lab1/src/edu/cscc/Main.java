@@ -1,5 +1,5 @@
 
-
+package edu.cscc;
 import java.util.Scanner;
 import java.lang.Math;
 /*Levi Lorenzo Diaz, 1/24, the purpose of this program is to find distance
