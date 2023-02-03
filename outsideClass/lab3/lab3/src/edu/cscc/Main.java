@@ -22,8 +22,8 @@ public class Main {
         inches = input.nextDouble();
         if (inches < 0) {
             System.out.println("Please enter a non negative number for your height in inches");
-            //convertToMeters();
-
+            //convertToMeters(); This does not work, it instead takes my original input and uses it for the variable kilograms, I used exit() to stop the program, please help me fix this
+            System.exit(0);
         }
         meters = inches / 39.37;
         return meters;
@@ -37,7 +37,8 @@ public class Main {
         kilograms = pounds /  2.2046;
         if (kilograms < 0) {
             System.out.println("Please input a number that isn't negative for your weight in pounds");
-            //convertToKg(); This does not work, it instead takes my original number and uses it for the variable kilograms
+            //convertToKg(); This does not work, it instead takes my original input and uses it for the variable kilograms, I used exit() to stop the program, please help me fix this
+            System.exit(0);
         }
         return kilograms;
     }
