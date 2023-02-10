@@ -15,19 +15,33 @@ public class Main {
         double BMI = calcBMI(convertedKg, convertedMeters);
         bmiClassification(BMI);
     }
-    public static double convertToMeters(){
-        double inches;
-        double meters;
+//    public static double convertToMeters(){
+//        double inches;
+//        double meters;
+//        System.out.print("please input your height in inches: ");
+//        inches = input.nextDouble();
+//        if (inches < 0) {
+//            System.out.println("Please enter a non negative number for your height in inches");
+//            //convertToMeters(); This does not work, it instead takes my original input and uses it for the variable kilograms, I used exit() to stop the program, please help me fix this
+//            System.exit(0);
+//        }
+//        meters = inches / 39.37;
+//        return meters;
+//    }
+public static double convertToMeters() {
+    double inches;
+    double meters;
+    do {
         System.out.print("please input your height in inches: ");
         inches = input.nextDouble();
         if (inches < 0) {
             System.out.println("Please enter a non negative number for your height in inches");
-            //convertToMeters(); This does not work, it instead takes my original input and uses it for the variable kilograms, I used exit() to stop the program, please help me fix this
-            System.exit(0);
         }
-        meters = inches / 39.37;
-        return meters;
-    }
+    } while (inches < 0);
+    meters = inches / 39.37;
+    return meters;
+}
+
 
     public static double convertToKg() {
         double pounds;
