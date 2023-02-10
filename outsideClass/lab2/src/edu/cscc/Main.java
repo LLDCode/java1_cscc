@@ -1,11 +1,10 @@
 package edu.cscc;
 import java.util.Scanner;
-// Levi Lorenzo Diaz- Lab 2 - Take user input and tell what type of hurricane it is based on the Saffir-Simpson hurricane wind scale
+// Levi Lorenzo Diaz - 11/31 - Lab 2 - Take user input and tell what type of hurricane it is based on the Saffir-Simpson hurricane wind scale
 public class Main {
     public static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         long windSpeed;
-        String classification;
         System.out.print("Please input the wind speed in Mph for classification ");
         windSpeed = input.nextLong();
 
