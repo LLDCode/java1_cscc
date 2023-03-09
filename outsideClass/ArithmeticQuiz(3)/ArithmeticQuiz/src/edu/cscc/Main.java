@@ -34,7 +34,7 @@ public class Main {
         }
 
         System.out.println("Your score: " + correct + " Correct  " + wrong + " Wrong");
-        if (wrong >= 0) {
+        if (wrong <= 0) {
             System.out.println("Excellent!");
         }
     }

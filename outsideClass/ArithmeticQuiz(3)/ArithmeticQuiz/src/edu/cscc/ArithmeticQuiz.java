@@ -17,7 +17,7 @@ public class ArithmeticQuiz {
      * @param max largest number to use in quiz
      */
     public ArithmeticQuiz(int max) {
-        max = max;
+        this.max = max;
     }
 
     /**
