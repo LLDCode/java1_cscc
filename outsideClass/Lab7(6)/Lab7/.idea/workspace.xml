@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de0b7d6b-6a1a-4655-bca7-eeb56c259e74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-600" />
+    <option name="y" value="11" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectId" id="1jpZECg13uTotmG6NHsK9DxV2Q2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.cscc" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.cscc.Main" />
+      <module name="Lab7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run All Unit Tests" type="JUnit" factoryName="JUnit">
+      <module name="Lab7" />
+      <option name="PACKAGE_NAME" value="edu.cscc" />
+      <option name="MAIN_CLASS_NAME" value="edu.cscc.RPSLSpockTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.Run All Unit Tests" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de0b7d6b-6a1a-4655-bca7-eeb56c259e74" name="Default Changelist" comment="" />
+      <created>1555334341696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555334341696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1203" y="274" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1639324592005">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1203" y="274" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1639324592005" />
+    <state width="1860" height="290" key="GridCell.Tab.0.bottom" timestamp="1639324624550">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="290" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1639324624550" />
+    <state width="1860" height="290" key="GridCell.Tab.0.center" timestamp="1639324624550">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="290" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1639324624550" />
+    <state width="1860" height="290" key="GridCell.Tab.0.left" timestamp="1639324624549">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="290" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1639324624549" />
+    <state width="1860" height="290" key="GridCell.Tab.0.right" timestamp="1639324624550">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="290" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1639324624550" />
+  </component>
+</project>
